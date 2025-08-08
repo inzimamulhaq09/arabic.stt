@@ -1,0 +1,7 @@
+dash==2.11.1
+dash-bootstrap-components==1.4.1
+sounddevice==0.4.6
+scipy==1.11.2
+numpy==1.24.3
+SpeechRecognition==3.10.0
+ffmpeg-python==0.2.0
