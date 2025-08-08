@@ -1,4 +1,4 @@
-# Khutbaat Voice Recorder and Transcriber
+# Arabic Voice Recorder and Transcriber
 
 A sophisticated web application built with Dash that allows users to record audio and automatically transcribe Arabic speech to text. Perfect for recording and transcribing religious sermons, lectures, or any Arabic audio content.
 
